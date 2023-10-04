@@ -1,0 +1,10 @@
+.capa {
+  width: 100%;
+  height: 347px;
+}
+
+@media screen and (max-width: 768px) {
+  .capa{
+    height: 290px;
+  }
+}
